@@ -1,15 +1,10 @@
-+++
-title = "About"
-date = "2017-06-27T17:39:21-07:00"
-draft = false
-+++
+---
+title: À propos
+---
+Ayant plus de 15 ans d'expérience dans le domaine, PLP Constructions Inc. est une compagnie en construction général et rénovation autant dans le domain résidentiel, commercial et institutionnel. Établi à Acton Vale en Montérégie, PLP Constructions Inc. réalise de nombreux projets dans sa région, desservant les régions de St-Hyacynthe, Granby et Drummonville.
 
-## Welcome to the Osprey Theme
+Formé d'une équipe dynamique et chevronné, PLP Constructions Inc prondra en charge vos travaux avec brio; des soumissions bien détaillés, une connaissance des normes, le respect des devis et des échéenciers ainsi que le souci du travail bien fait sont la clé pour rendre vos projets à terme de manière plus qu'agréable.
 
-To create an about section, generate an about.md file in your content folder by doing:
+Notre priorité sera toujours de vous servir dans le respect selon vos besoins, votre budget et vos échéanciers. Nous garantissons un travail de qualité en respectant les règles de l'art. Parce que chez nous, ce qui compte, c'est la satisfaction du client!
 
-```console
-$ hugo new about.md
-```
-
-Then add your own content to the markdown file. Everything in the file will be generated to show here on the home page.
+PLP Construction, des travaux réalisés Par Les Pros!
