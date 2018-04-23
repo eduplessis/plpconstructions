@@ -1,3 +1,10 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+title = "Plp Constructions"
+baseURL = "/"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "fr-CA"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
