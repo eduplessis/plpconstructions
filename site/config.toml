@@ -1,5 +1,5 @@
 title = "Plp Constructions"
-baseURL = "http://plpconstructions.com"
+baseURL = "//plpconstructions.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "fr-CA"
 config = "config.toml"
